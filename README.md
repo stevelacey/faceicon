@@ -13,12 +13,12 @@ I scarcely know Ruby, have never used Rails, so pull requests are appreciated!
 
 # Service Priority #
 
-  * Twitter
-  * Gravatar
-  * Facebook
-  * Gowalla
-  * Foursquare
-  * LinkedIn
+  1. Twitter
+  2. Gravatar
+  3. Facebook
+  4. Gowalla
+  5. Foursquare
+  6. LinkedIn
 
 This list is based almost entirely on my preference and supposedly, network popularity. The long-term plan however, is to add any other networks with avatars that OmniAuth supports, prioritised based on feature requests by users!
 
